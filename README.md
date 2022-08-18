@@ -1,6 +1,10 @@
+# 인프런 '처음 만난 리액트' 강의 연습 프로젝트
+인프런 [처음 만난 리액트](https://www.inflearn.com/course/%EC%B2%98%EC%9D%8C-%EB%A7%8C%EB%82%9C-%EB%A6%AC%EC%95%A1%ED%8A%B8/) 강의 (소플) 
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
 
 ## Available Scripts
 
